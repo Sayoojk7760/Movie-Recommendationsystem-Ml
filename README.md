@@ -1,4 +1,4 @@
-# MovieRecommendationsystem
+# Movie-Recommendation-system-ML
 
 #RecommendationSystem #ML #jupiternotebook
 
